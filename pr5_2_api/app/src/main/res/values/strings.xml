@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pr5_2_api</string>
+    <string name="registration">Авторизация</string>
+    <string name="name">Введите имя</string>
+    <string name="pass">Введите пароль</string>
+    <string name="dalee">Продолжить</string>
+
+    <string name="vvod">Введите название песни</string>
+    <string name="findsong">Найти песни</string>
+    <string name="result">Результаты поиска песен</string>
+    <string name="add">Добавить в плейлист</string>
+    <string name="open">Открыть мой плейлист</string>
+
+    <string name="yourplaylist">Ваш Плейлист</string>
+    <string name="list">Список сохраненных аудиозаписей</string>
+    <string name="back">Назад</string>
+
+</resources>
